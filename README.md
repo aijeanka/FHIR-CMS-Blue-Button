@@ -1,4 +1,4 @@
-# Project 2.10: CMS Data Access with Blue Button using FHIR
+# Project 10: CMS Data Access with Blue Button using FHIR
 
 **Author**: Aizhan Uteubayeva (NetID: au198)  
 **Published**: June 17, 2024
